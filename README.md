@@ -20,9 +20,9 @@
 - 2019-05-04 17:00:00 读完《赌博破戒录》
 - 2019-05-05 13:30:00 读完《赌博坠天录》
 - 2019-06-18 09:30:00 读完[《紧闭的门扉》](https://github.com/wxnacy/book/tree/master/book/%E7%B4%A7%E9%97%AD%E7%9A%84%E9%97%A8%E6%89%89-%E7%9F%B3%E6%8C%81%E6%B7%BA%E6%B5%B7)
-- 2019-06-21 19:55:00 读完《美国陷阱》
+- 2019-06-21 19:55:00 读完[《美国陷阱》](https://github.com/wxnacy/book/tree/master/book/%E7%BE%8E%E5%9B%BD%E9%99%B7%E9%98%B1)
 - 2019-06-25 20:00:00 读完《进击的巨人》到 26 卷
-- 2019-06-27 22:00:00 读完《跃进》
-- 2019-07-02 20:22:00 读完《钢之炼金术师》第 N 遍
+- 2019-06-27 22:00:00 读完[《跃迁》](https://github.com/wxnacy/book/tree/master/book/%E8%B7%83%E8%BF%81%EF%BC%9A%E6%88%90%E4%B8%BA%E9%AB%98%E6%89%8B%E7%9A%84%E6%8A%80%E6%9C%AF-%E5%8F%A4%E5%85%B8)
+- 2019-07-02 20:22:00 读完[《钢之炼金术师》](https://vol.moe/comic/10058.htm) 第 N 遍
 
 Power by [goss](https://github.com/wxnacy/goss)
