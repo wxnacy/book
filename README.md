@@ -5,6 +5,7 @@
 ## 正在读
 
 [《喜鹊谋杀案》](https://raw.githubusercontent.com/wxnacy/book/master/book/喜鹊谋杀案/喜鹊谋杀案.mobi)
+[《长安十二时辰》](https://github.com/wxnacy/book/tree/master/book/%E9%95%BF%E5%AE%89%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0)
 
 ## 2019
 
@@ -31,3 +32,12 @@
 $ goss README.md -r book -y -p README.md
 ```
 Power by [goss](https://github.com/wxnacy/goss)
+
+## 书籍来源
+
+书籍均来源于网络，包括但不限于以下列表
+
+- http://www.ireadweek.com/
+- http://mebook.cc/category/gjs/bckf
+- https://sobooks.cc/
+
