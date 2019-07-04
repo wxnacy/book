@@ -4,8 +4,7 @@
 
 ## 正在读
 
-[《喜鹊谋杀案》](https://raw.githubusercontent.com/wxnacy/book/master/book/喜鹊谋杀案/喜鹊谋杀案.mobi)
-[《长安十二时辰》](https://github.com/wxnacy/book/tree/master/book/%E9%95%BF%E5%AE%89%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0)
+- [《长安十二时辰》](https://github.com/wxnacy/book/tree/master/book/%E9%95%BF%E5%AE%89%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0)
 
 ## 2019
 
@@ -25,6 +24,7 @@
 - 2019-06-25 20:00:00 读完[《进击的巨人》](https://vol.moe/comic/10184.htm) 到 26 卷
 - 2019-06-27 22:00:00 读完[《跃迁》](https://github.com/wxnacy/book/tree/master/book/%E8%B7%83%E8%BF%81%EF%BC%9A%E6%88%90%E4%B8%BA%E9%AB%98%E6%89%8B%E7%9A%84%E6%8A%80%E6%9C%AF-%E5%8F%A4%E5%85%B8)
 - 2019-07-02 20:22:00 读完[《钢之炼金术师》](https://vol.moe/comic/10058.htm) 第 N 遍
+- 2019-07-04 13:05:00 读完[《喜鹊谋杀案》](https://raw.githubusercontent.com/wxnacy/book/master/book/喜鹊谋杀案/喜鹊谋杀案.mobi)
 
 更新 README.md 的命令
 
