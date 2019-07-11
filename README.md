@@ -27,6 +27,7 @@
 - 2019-07-02 20:22:00 读完[《钢之炼金术师》](https://vol.moe/comic/10058.htm) 第 N 遍
 - 2019-07-04 13:05:00 读完[《喜鹊谋杀案》](https://raw.githubusercontent.com/wxnacy/book/master/book/喜鹊谋杀案/喜鹊谋杀案.mobi)
 - 2019-07-08 20:11:57 读完[《长安十二时辰》](https://github.com/wxnacy/book/tree/master/book/%E9%95%BF%E5%AE%89%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0)
+- 2019-07-11 09:20:14 读完[《镖人》](https://vol.moe/comic/52915.htm) 第 95 话
 
 ## 2018
 
