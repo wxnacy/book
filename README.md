@@ -5,6 +5,7 @@
 ## 正在读
 
 - [人间失格](https://github.com/wxnacy/book/tree/master/book/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC)
+- [反叛的魯路修](https://vol.moe/comic/52992.htm)
 
 
 ## 2019
@@ -28,6 +29,7 @@
 - 2019-07-04 13:05:00 读完[《喜鹊谋杀案》](https://raw.githubusercontent.com/wxnacy/book/master/book/喜鹊谋杀案/喜鹊谋杀案.mobi)
 - 2019-07-08 20:11:57 读完[《长安十二时辰》](https://github.com/wxnacy/book/tree/master/book/%E9%95%BF%E5%AE%89%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0)
 - 2019-07-11 09:20:14 读完[《镖人》](https://vol.moe/comic/52915.htm) 第 95 话
+- 2019-07-12 22:33:11 读完[一拳超人](https://vol.moe/comic/50002.htm) 第 18 卷
 
 ## 2018
 
