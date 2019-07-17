@@ -4,8 +4,10 @@
 
 ## 正在读
 
-- [《肖申克的救赎》](https://github.com/wxnacy/book/tree/master/book/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E-%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E9%87%91)
-- [《反叛的魯路修》](https://vol.moe/comic/52992.htm)
+- [《死亡笔记》](https://vol.moe/comic/10236.htm) 第 N 遍
+- [《棋魂》](https://vol.moe/comic/10137.htm) 第 N 遍
+- [《反叛的魯路修》](https://vol.moe/comic/52992.htm) 第 N 遍
+- [《巨人的陨落》](https://github.com/wxnacy/book/tree/master/book/%E5%B7%A8%E4%BA%BA%E7%9A%84%E9%99%A8%E8%90%BD)
 
 
 ## 2019
@@ -31,6 +33,7 @@
 - 2019-07-11 09:20:14 读完[《镖人》](https://vol.moe/comic/52915.htm) 第 95 话
 - 2019-07-12 22:33:11 读完[《一拳超人》](https://vol.moe/comic/50002.htm) 第 18 卷
 - 2019-07-13 20:17:32 读完[《人间失格》](https://github.com/wxnacy/book/tree/master/book/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC)
+- 2019-07-17 09:37:38 读完[《肖申克的救赎》](https://github.com/wxnacy/book/tree/master/book/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E-%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E9%87%91) 第 2 遍
 
 - [2018 年](2018.md)
 
