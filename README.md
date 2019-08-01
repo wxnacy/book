@@ -7,7 +7,7 @@
 - [《死亡笔记》](https://vol.moe/comic/10236.htm) 第 N 遍
 - [《反叛的魯路修》](https://vol.moe/comic/52992.htm) 第 N 遍
 - [《巨人的陨落》](https://github.com/wxnacy/book/tree/master/book/%E5%B7%A8%E4%BA%BA%E7%9A%84%E9%99%A8%E8%90%BD)
-- 幻夜
+
 
 
 
@@ -39,6 +39,7 @@
 - 2019-07-24 18:56:26 读完《无人生还》
 - 2019-07-26 21:21:11 读完[《端脑》](https://vol.moe/comic/51013.htm)
 - 2019-07-28 19:29:31 读完[《最强不良传说》](https://vol.moe/comic/10297.htm)
+- 2019-08-01 20:52:44 读完[《幻夜》](https://github.com/wxnacy/book/tree/master/book/%E5%B9%BB%E5%A4%9C)
 
 - [2018 年](2018.md)
 
@@ -50,6 +51,12 @@
 $ goss README.md -r book -y -p README.md
 ```
 Power by [goss](https://github.com/wxnacy/goss)
+
+更新书的命令
+
+```bash
+$ ws book publish <dir_name>
+```
 
 ## 书籍来源
 
