@@ -65,4 +65,5 @@ $ ws book publish <dir_name>
 - http://www.ireadweek.com/
 - http://mebook.cc/category/gjs/bckf
 - https://sobooks.cc/
+- https://github.com/threerocks/studyFiles
 
