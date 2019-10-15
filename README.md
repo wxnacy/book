@@ -51,13 +51,14 @@
 - 2019-09-16 19:32:42 读完[《灌篮高手》](https://vol.moe/comic/10057.htm) 第 N 遍
 - 2019-09-19 12:13:42 读完[《寄生兽》](https://vol.moe/comic/10348.htm)
 - 2019-09-22 12:15:43 读完《当我跑步时，我谈些什么》
+- 2019-10-15 15:38:43 读完[《火影忍者》](https://vol.moe/comic/51614.htm)
 
 - [2018 年](2018.md)
 
 更新 README.md 的命令
 
 ```bash
-$ goss README.md -r book -y -p README.md
+$ goss book/README.md -r book -y -p README.md
 ```
 Power by [goss](https://github.com/wxnacy/goss)
 
