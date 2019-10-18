@@ -4,9 +4,10 @@
 
 ## 正在读
 
-- [《死亡笔记》](https://vol.moe/comic/10236.htm) 第 N 遍
-- [《反叛的魯路修》](https://vol.moe/comic/52992.htm) 第 N 遍
-- [《巨人的陨落》](https://github.com/wxnacy/book/tree/master/book/%E5%B7%A8%E4%BA%BA%E7%9A%84%E9%99%A8%E8%90%BD)
+<!-- - [《死亡笔记》](https://vol.moe/comic/10236.htm) 第 N 遍 -->
+<!-- - [《反叛的魯路修》](https://vol.moe/comic/52992.htm) 第 N 遍 -->
+<!-- - [《巨人的陨落》](https://github.com/wxnacy/book/tree/master/book/%E5%B7%A8%E4%BA%BA%E7%9A%84%E9%99%A8%E8%90%BD) -->
+- 乔布斯传 第 2 遍
 
 
 
@@ -76,4 +77,5 @@ $ ws book publish <dir_name>
 - http://mebook.cc/category/gjs/bckf
 - https://sobooks.cc/
 - https://github.com/threerocks/studyFiles
+- https://www.amazon.cn/b/ref=sv_kinc_3?ie=UTF8&node=1337022071
 
