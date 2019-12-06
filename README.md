@@ -54,6 +54,7 @@
 - 2019-10-15 15:38:43 读完[《火影忍者》](https://vol.moe/comic/51614.htm) 第 N 遍
 - 2019-10-29 13:20:00 读完《乔布斯传》 第 2 遍
 - 2019-11-07 08:45:00 读完《心如破晓》
+- 2019-12-04 08:45:00 读完[《小和尚》](https://volmoe.com/comic/50755.htm)
 
 - [2018 年](2018.md)
 
@@ -62,12 +63,19 @@
 ```bash
 $ goss book/README.md -r book -y -p README.md
 ```
+
 Power by [goss](https://github.com/wxnacy/goss)
 
 更新书的命令
 
 ```bash
 $ ws book publish <dir_name>
+```
+
+推送到 kindle
+
+```bash
+$ ws kindle push <book_name>
 ```
 
 ## 书籍来源
