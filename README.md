@@ -49,7 +49,7 @@ $ ws kindle push <book_name>
 
 书籍均来源于网络，包括但不限于以下列表
 
-- http://www.ireadweek.com/
+- http://www.iyd.wang/
 - http://mebook.cc/category/gjs/bckf
 - https://sobooks.cc/
 - https://github.com/threerocks/studyFiles
