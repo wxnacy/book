@@ -18,6 +18,8 @@
 2020-05-12 13:26:00 | [《低智商犯罪》](https://github.com/wxnacy/book/tree/master/book/%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA) | 紫金陈
 2020-05-20 20:00:00 | 《最动听的告白》 | 安思源
 2020-05-23 21:55:00 | [《侯大利刑侦笔记》](https://github.com/wxnacy/book/tree/master/book/%E4%BE%AF%E5%A4%A7%E5%88%A9%E5%88%91%E4%BE%A6%E7%AC%94%E8%AE%B0) | 小桥老树
+2020-05-24 18:22:00 | [《我在100天内自学英文翻转人生》](https://github.com/wxnacy/book/tree/master/book/%E6%88%91%E5%9C%A8100%E5%A4%A9%E5%86%85%E8%87%AA%E5%AD%A6%E8%8B%B1%E6%96%87%E7%BF%BB%E8%BD%AC%E4%BA%BA%E7%94%9F) | 张同完
+2020-05-27 13:42:00 | [《侯大利刑侦笔记2》](https://github.com/wxnacy/book/tree/master/book/%E4%BE%AF%E5%A4%A7%E5%88%A9%E5%88%91%E4%BE%A6%E7%AC%94%E8%AE%B02) | 小桥老树
 
 - [2019 年](2019.md)
 - [2018 年](2018.md)
