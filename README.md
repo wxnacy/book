@@ -25,6 +25,7 @@
 2020-06-09 18:56:00 | [《故事会》](https://github.com/wxnacy/book/tree/master/book/%E6%95%85%E4%BA%8B%E4%BC%9A/2018%E5%B9%B4) 2018 年第 1 期| 故事会
 2020-06-15 16:54:00 | [《弹弓神警1》](https://github.com/wxnacy/book/tree/master/book/%E5%BC%B9%E5%BC%93%E7%A5%9E%E8%AD%A6)| 常书欣
 2020-06-20 14:05:00 | 《对弈1》| 常书欣
+2020-06-24 16:00:00 | 《对弈2》| 常书欣
 
 - [2019 年](2019.md)
 - [2018 年](2018.md)
