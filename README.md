@@ -40,6 +40,7 @@
 2020-10-21 09:02:00 | [《不义联盟1》](https://volmoe.com/c/50248.htm) | DC 
 2020-10-28 08:30:00 | [《神兵玄奇Ⅰ》](https://volmoe.com/c/50776.htm) | 黄玉郎
 2020-11-02 09:12:00 | [《神兵玄奇Ⅱ》](https://volmoe.com/c/50806.htm) | 黄玉郎
+2020-11-06 09:45:00 | [《死亡通知单1》](https://pan.baidu.com/s/1oygAG6aIe_KkqksEbYXDKA) 第 N 遍 密码: w5l9| 周浩晖
 
 - [2019 年](2019.md)
 - [2018 年](2018.md)
