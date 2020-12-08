@@ -45,6 +45,7 @@
 2020-11-11 12:56:00 | [《龙珠超》](https://volmoe.com/c/50410.htm) 第 9 卷| 鸟山明
 2020-11-19 08:35:00 | [《封神纪2》](https://volmoe.com/c/14242.htm) | 鄭健和
 2020-11-24 09:45:00 | [《死亡通知单2》](https://pan.baidu.com/s/1oygAG6aIe_KkqksEbYXDKA) 第 N 遍 密码: w5l9| 周浩晖
+2020-12-08 17:25:17 | [《死亡通知单3上》](https://pan.baidu.com/s/1oygAG6aIe_KkqksEbYXDKA) 第 N 遍 密码: w5l9| 周浩晖
 
 - [2019 年](2019.md)
 - [2018 年](2018.md)
