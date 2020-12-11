@@ -46,6 +46,9 @@
 2020-11-19 08:35:00 | [《封神纪2》](https://volmoe.com/c/14242.htm) | 鄭健和
 2020-11-24 09:45:00 | [《死亡通知单2》](https://pan.baidu.com/s/1oygAG6aIe_KkqksEbYXDKA) 第 N 遍 密码: w5l9| 周浩晖
 2020-12-08 17:25:17 | [《死亡通知单3上》](https://pan.baidu.com/s/1oygAG6aIe_KkqksEbYXDKA) 第 N 遍 密码: w5l9| 周浩晖
+2020-12-09 19:27:00 | [《爆漫王》](https://volmoe.com/c/10138.htm) | 小畑健　大場鶇
+2020-12-10 11:47:00 | [《咒术回战》](https://volmoe.com/c/52985.htm) 第 60 话 | 芥見下々
+
 
 - [2019 年](2019.md)
 - [2018 年](2018.md)
