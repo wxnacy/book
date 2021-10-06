@@ -23,6 +23,7 @@
 2021-07-01 10:32:00 | [《JOJO的奇妙冒險第3部》](https://vol.moe/c/12022.htm)| 荒木飛呂彥
 2021-09-28 09:57:00 | [《猎头·局中局1》](https://www.aliyundrive.com/s/MmV2V4jDzHD)| 萧东楼
 2021-10-03 23:57:00 | [《弥留之国的爱丽丝》](https://mox.moe/c/50065.htm)| 麻生羽呂
+2021-10-06 16:32:00 | [《猎头·局中局2》](https://www.aliyundrive.com/s/nvxJXYYnx5J)| 萧东楼
 
 
 
