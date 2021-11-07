@@ -26,6 +26,7 @@
 2021-10-06 16:32:00 | [《猎头·局中局2》](https://www.aliyundrive.com/s/nvxJXYYnx5J)| 萧东楼
 2021-10-18 09:55:00 | [《一往无前》](https://www.aliyundrive.com/s/RxuzRnZ3H4g)| 范海涛
 2021-10-22 10:10:00 | [《无名之町》](https://www.aliyundrive.com/s/dHksnMCfFHmg)| 东野圭吾
+2021-11-03 09:53:00 | [《杀戮都市》](https://mox.moe/c/10004.htm)| 奧浩哉
 
 
 
