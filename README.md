@@ -28,6 +28,7 @@
 2021-10-22 10:10:00 | [《无名之町》](https://www.aliyundrive.com/s/dHksnMCfFHmg)| 东野圭吾
 2021-11-03 09:53:00 | [《杀戮都市》](https://mox.moe/c/10004.htm)| 奧浩哉
 2021-12-03 09:53:00 | [《死神》](https://mox.moe/c/50053.htm)| 久保帶人 | 55 卷弃
+2021-12-09 10:13:00 | [《高智商犯罪1》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 第 2 遍	
 
 
 
