@@ -30,6 +30,8 @@
 2021-12-03 09:53:00 | [《死神》](https://mox.moe/c/50053.htm)| 久保帶人 | 55 卷弃
 2021-12-09 10:13:00 | [《高智商犯罪1：设局》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 第 2 遍	
 2021-12-15 09:31:00 | [《高智商犯罪2：化工女王的逆袭》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 第 2 遍	
+2021-12-17 21:33:00 | [《高智商犯罪3：物理教师的时空诡计》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 第 2 遍	
+2021-12-31 21:54:00 | [《高智商犯罪4：死神代言人》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 
 
 
 
