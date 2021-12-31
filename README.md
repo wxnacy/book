@@ -32,6 +32,7 @@
 2021-12-15 09:31:00 | [《高智商犯罪2：化工女王的逆袭》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 第 2 遍	
 2021-12-17 21:33:00 | [《高智商犯罪3：物理教师的时空诡计》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 第 2 遍	
 2021-12-31 21:54:00 | [《高智商犯罪4：死神代言人》](https://github.com/wxnacy/book/tree/master/book/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA)| 紫金陈 | 
+2021-12-30 10:31:00 | [《全员嫌疑人》](https://github.com/wxnacy/book/tree/master/book/%E5%85%A8%E5%91%98%E5%AB%8C%E7%96%91%E4%BA%BA)| 大山诚一郎 | 
 
 
 
